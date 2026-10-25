@@ -1,2 +1,2 @@
-# PrashnaMitra
-AI Chatbot for Student Support Services is a 24/7 digital assistant that automatically answers student questions about schedules, campus policies, and admissions. Using RAG (Retrieval-Augmented Generation) and LLMs, it searches official university documents to deliver instant, accurate responses without making up false information.
+# AMS - Attendance Monitoring System
+An Attendance Monitoring System is a platform that automatically records, tracks, and analyzes the presence of students, employees, or members in an institution or organization. It replaces manual registers and roll calls with a faster, more accurate, and tamper-resistant process, and turns raw attendance data into insights about punctuality, absenteeism, and engagement patterns.
