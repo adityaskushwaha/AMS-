@@ -1,2 +1,0 @@
-# AMS - Attendance Monitoring System
-An Attendance Monitoring System is a platform that automatically records, tracks, and analyzes the presence of students, employees, or members in an institution or organization. It replaces manual registers and roll calls with a faster, more accurate, and tamper-resistant process, and turns raw attendance data into insights about punctuality, absenteeism, and engagement patterns.
